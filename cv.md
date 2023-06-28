@@ -1,3 +1,4 @@
+![avatar](/gh-pages/IMG_20180722_162852_1.jpg "Selfie")
 # Stanislau Kozel
 
 ## Contacts
