@@ -34,4 +34,7 @@ function sumMul(n,m){
 
 ## Education/Courses
 
+* 2011-2017 - Brest State Technical University
+* 2022 - A1QA Courses QA Manual
+
 ## Languages
