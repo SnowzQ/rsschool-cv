@@ -7,8 +7,15 @@
 * ### [GitHub](https://github.com/SnowzQ)
   
 ## About me
+My purpose is to become a Developer. I'm patient, calm, open-minded person. I'm opened for new challeges. Also I'm quick learn person, because I'm very attentive.
 
 ## Skills
+- HTML
+- CSS
+- SQL
+- Scrum
+- VS Code
+- Chrome Dev Tools
 
 ## Code Example
 
