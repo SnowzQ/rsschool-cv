@@ -38,3 +38,6 @@ function sumMul(n,m){
 * 2022 - A1QA Courses QA Manual
 
 ## Languages
+
+* Russian (Fluently)
+* English (intermediate)
