@@ -18,6 +18,19 @@ My purpose is to become a Developer. I'm patient, calm, open-minded person. I'm 
 - Chrome Dev Tools
 
 ## Code Example
+```
+
+function sumMul(n,m){
+  if (m <= n) return 'INVALID'
+  
+  let x = 0
+  for(let i = n; i < m; i += n)  {
+    x += i
+  }
+  return x
+}
+
+```
 
 ## Education/Courses
 
